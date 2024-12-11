@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+pdf2image
+pdf2docx
+docx
+pandas
+python-pptx
+Pillow

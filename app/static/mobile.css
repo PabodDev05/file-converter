@@ -1,0 +1,35 @@
+@media screen and (max-width: 600px) {
+    #dropdown-menu{
+        width: 100%;
+        height: auto;
+    }
+    .hero{
+        margin-top: -50px;
+        padding-top: 2px;
+    }
+    .hero h2{
+        font-size: 2rem;
+    }
+    .tools{
+        margin-top: 100px;
+    }
+    .middle-text{
+        margin-top: 100px;
+    }
+    .container .bounce img{
+        width: 40px;
+        height: auto;
+        position: relative;
+        animation: bounceAnimation 2s ease-in-out forwards;
+    }
+    .description{
+        width: 100%;
+        height: auto;
+        padding-left: 0;
+    }
+    footer{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+}
